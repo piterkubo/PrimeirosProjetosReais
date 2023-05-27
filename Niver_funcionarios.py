@@ -3,7 +3,7 @@ import win32com.client as win32
 import pyautogui as auto
 import pyperclip as pyper
 import time
-
+#teste#
 auto.hotkey('winleft','r')
 time.sleep(0.5)
 
