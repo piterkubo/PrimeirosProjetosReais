@@ -1,7 +1,7 @@
 # PrimeirosProjetosReais
 
 
-## OBS Feliz por criar meus primeiros projetos  e estudando para aprimorar cada vez muito mais.
+## OBS Feliz por criar meus primeiros projetos  e estudando para aprimorar cada vez mais.
 
 ### Projeto foi mais uma automatização aplicada para facilitar umas rotinas do dia-a-dia.💻🚀
 
