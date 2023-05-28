@@ -16,5 +16,4 @@
 - Backup agendado marcando o eixo da tela com a biblioteca pyautogui.
 
 
-=======
-Projeto foi mais uma automatização aplicado para automatizar alguns recurso 
+ 
